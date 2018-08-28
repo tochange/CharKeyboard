@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/joey/github/InputMethodDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "44",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                },
+                {
+                    "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "6,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "243,534",
+                        "endLines": "12,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "529,689"
+                    }
+                },
+                {
+                    "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "58,112,165",
+                        "endColumns": "52,52,36",
+                        "endOffsets": "106,160,197"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,153,206",
+                        "endColumns": "52,52,36",
+                        "endOffsets": "148,201,238"
+                    }
+                }
+            ]
+        }
+    ]
+}

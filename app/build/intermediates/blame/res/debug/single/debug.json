@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dialog_keyboard.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/ic_dialog_keyboard.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_shift.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_shift.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable_normal_key_bg.9.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable/normal_key_bg.9.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable_normal_key_hl_bg.9.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable/normal_key_hl_bg.9.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_right.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_right.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_done.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_done.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_left.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_left.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_search.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/sym_keyboard_search.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/xml_qwerty.xml.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/layout_key_preview_layout.xml.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/layout/key_preview_layout.xml"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_backspace.png.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable-hdpi/keyboard_backspace.png"
+    },
+    {
+        "merged": "/Users/joey/github/InputMethodDemo/app/build/intermediates/res/merged/debug/drawable_btn_keyboard_key.xml.flat",
+        "source": "/Users/joey/github/InputMethodDemo/app/src/main/res/drawable/btn_keyboard_key.xml"
+    }
+]

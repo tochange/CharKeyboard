@@ -1,0 +1,4 @@
+#Tue Aug 28 14:28:32 CST 2018
+base.0=/Users/joey/github/InputMethodDemo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

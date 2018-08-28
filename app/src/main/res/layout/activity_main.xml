@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="none"
+        android:text="@string/hello_world"
+        android:textSize="30sp" />
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <cn.demo.inputmethod.CharKeyboard
+            android:id="@+id/keyboardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:enabled="true"
+            android:keyPreviewLayout="@layout/key_preview_layout"
+            android:keyBackground="@drawable/btn_keyboard_key" 
+            android:keyTextColor="@android:color/white"/>
+    </RelativeLayout>
+
+</LinearLayout>
